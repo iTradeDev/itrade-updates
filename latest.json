@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "version": "2.2.6",
-  "build": 41,
-  "packageUrl": "https://github.com/iTradeDev/itrade-updates/releases/download/v2.2.6-build41/iTradeDashboard_Update_V2.2.6_build41.zip",
-  "sha256": "27a81254636f5d62b54edb3fa7f43e8c6ecfe8cf3f563210c13c3564404651a3",
-  "size": 25447770,
+  "build": 42,
+  "packageUrl": "https://github.com/iTradeDev/itrade-updates/releases/download/v2.2.6-build42/iTradeDashboard_Update_V2.2.6_build42.zip",
+  "sha256": "13287ea07a4670552fb3e5dd12893495c0db320e05a74dbb51494124a06f8e75",
+  "size": 25451558,
   "notes": "",
   "sqlFiles": [],
-  "envAdditionsSha256": "",
+  "envAdditionsSha256": "14d1e7dcb4f0cfe8e3cd774f6b5c9c9ed512f84c5dae10a7a16eb93db863609d",
   "requiresReinstall": false,
-  "createdAt": "2026-10-30T12:40:31.121Z",
-  "signature": "vc6tPPkQqrFz6dzoVbLGPEufmUSH13lco8A4eQMxHozOLtTN649qi4BYR4QmSu62ypBKMpuki0x00Ur1ljN/BQ=="
+  "createdAt": "2026-10-30T13:02:40.712Z",
+  "signature": "4tE3mhjCW67w3agZPne+HoGeZGKZdhzLAeL5XMQKLjeyCiZ8lg+4o9IKiVfFcMhPZR9smW9PPBj2jNsSRqWtCg=="
 }
