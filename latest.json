@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "version": "2.2.5",
+  "build": 35,
+  "packageUrl": "https://github.com/iTradeDev/itrade-updates/releases/download/v2.2.5-build35/iTradeDashboard_Update_V2.2.5_build35.zip",
+  "sha256": "e07f7bfede323f4f6cae1c07d025bfdebb83abf61c98781fe4e8aee0fcbefe2c",
+  "size": 25366559,
+  "notes": "test",
+  "sqlFiles": [],
+  "envAdditionsSha256": "",
+  "requiresReinstall": false,
+  "createdAt": "2026-10-30T10:55:19.604Z",
+  "signature": "CTqmlTPuH9+BlTGuTSJagO+afyra1Urikq/M36+foxyqiyfnbJXRxK60Kxrk4UA3+HA8SGDCz2Le33w/kXO7BQ=="
+}
