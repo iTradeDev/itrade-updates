@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "version": "2.2.6",
-  "build": 47,
-  "packageUrl": "https://github.com/iTradeDev/itrade-updates/releases/download/v2.2.6-build47/iTradeDashboard_Update_V2.2.6_build47.zip",
-  "sha256": "5b2ad939a76fba4416df1797eea5bfc00c6725df5a5a2c77e2a68d80dbf99b1e",
-  "size": 25452019,
-  "notes": "",
+  "version": "2.2.7",
+  "build": 48,
+  "packageUrl": "https://github.com/iTradeDev/itrade-updates/releases/download/v2.2.7-build48/iTradeDashboard_Update_V2.2.7_build48.zip",
+  "sha256": "af416331f6aeb9567f0e5a3e24960c66f06e6447872aa9e0fa05de2f8ec01701",
+  "size": 29425250,
+  "notes": "MTD, YTD Option + share dashboards as exe",
   "sqlFiles": [],
   "envAdditionsSha256": "14d1e7dcb4f0cfe8e3cd774f6b5c9c9ed512f84c5dae10a7a16eb93db863609d",
   "requiresReinstall": false,
-  "createdAt": "2026-10-30T14:46:01.522Z",
-  "signature": "1cUSeSIsdKT9/s1XY6KaZn978KBpwAaQTaafgOj+wHgxPNntbxS3VZfYxXJMVV3qfIHzMvafFC9zgYAl4L60Cw=="
+  "createdAt": "2026-11-11T08:38:23.803Z",
+  "signature": "vUFK+i6RrOUX9WNT8Do1fASWcmD+83i4Agr+S3gSoLSJOPXPIiQ7gq/d9C3e8K6I7FFcSChgHKeR2mwWiJAmCw=="
 }
